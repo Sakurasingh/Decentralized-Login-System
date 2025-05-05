@@ -22,5 +22,4 @@ The vision is to eliminate centralized storage vulnerabilities and give users ow
 - Frontend dApp to interact with this smart contract via Stellar wallet.
 
 ## 📄 Contract Details:
-CDPB5VPL3IPXVO23Z4II4BRVBUKQ3CL4RS6IU6HIB5VOIMFZ27CLQZW4
 ![alt text](image.png)
